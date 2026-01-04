@@ -4,7 +4,7 @@ build/
 devel/
 install/
 log/
-CMakeLists.txt
+./CMakeLists.txt
 # IDE 配置文件 (如果是 CLion/VSCode)
 .idea/
 .vscode/
